@@ -2,7 +2,7 @@
 
 This repository provides <font color="#70aec9">[</font><font color="#b2aaa9" typeface='Roboto'>SIMETRIC</font><font color="#df5e75">]</font> documentation and resources
 
-> [Documentation.](https://haroldpx.github.io/PntArchitect/)
+> [Documentation.](https://simpulse-solutions.github.io/Simetric/#/getting-started)
 
 > Resources
 
@@ -13,3 +13,4 @@ Tutorials.
 > [Community and Support]
 
 If you run into any other problems with the <font color="#70aec9">[</font><font color="#b2aaa9" typeface='Roboto'>SIMETRIC</font><font color="#df5e75">]</font> or have a specific feature request, please submit a [GitHub issue](https://github.com/Simpulse-solutions/simetric/issues).
+

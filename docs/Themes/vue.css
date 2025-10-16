@@ -355,6 +355,23 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
 	position: fixed
 }
 
+@font-face {
+  font-family: 'Forced Square';
+  src: url('../Fonts/ForcedSquare.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.forced-square {
+	font-family: 'Forced Square', sans-serif;
+}
+
+fs {
+  font-family: 'Forced Square', sans-serif;
+  color: #b2aaa9;
+  letter-spacing: 2px;
+}
+
 .content {
 	padding-top: 60px;
 	position: absolute;

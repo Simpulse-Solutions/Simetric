@@ -1,6 +1,6 @@
-# <font color="#70aec9" size="+1">[</font><font color="#b2aaa9" size="+1" typeface='Roboto'>SIMETRIC</font><font color="#df5e75" size="+1">]</font>
+# <fs><font color="#70aec9" size="+1">[</font><font size="+1">SIMETRIC</font><font color="#df5e75" size="+1">]</font></fs>
 
-This repository provides <font color="#70aec9">[</font><font color="#b2aaa9" typeface='Roboto'>SIMETRIC</font><font color="#df5e75">]</font> documentation and resources
+This repository provides <fs><font color="#70aec9">[</font><font>SIMETRIC</font><font color="#df5e75">]</font></fs> documentation and resources
 
 > [Documentation.](https://simpulse-solutions.github.io/Simetric/#/getting-started)
 
@@ -12,5 +12,5 @@ Tutorials.
 
 > [Community and Support]
 
-If you run into any other problems with the <font color="#70aec9">[</font><font color="#b2aaa9" typeface='Roboto'>SIMETRIC</font><font color="#df5e75">]</font> or have a specific feature request, please submit a [GitHub issue](https://github.com/Simpulse-solutions/simetric/issues).
+If you run into any other problems with the <fs><font color="#70aec9">[</font><font>SIMETRIC</font><font color="#df5e75">]</font></fs> or have a specific feature request, please submit a [GitHub issue](https://github.com/Simpulse-solutions/simetric/issues).
 

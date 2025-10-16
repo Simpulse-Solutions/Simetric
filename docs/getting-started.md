@@ -2,7 +2,7 @@
 
 # Files Description :id=fliesdescription
 
-It exists 4 types of files used by **<fs>[SIMETRIC]<fs> software** :
+It exists 4 types of files used by **<fs>[SIMETRIC]</fs> software** :
 
 <table>
         <tbody><tr>
@@ -15,7 +15,7 @@ It exists 4 types of files used by **<fs>[SIMETRIC]<fs> software** :
         </tr>
         <tr>
             <td>.ALIAS</td>
-            <td>This file is a text file, cused for the communication between <fs>[SIMETRIC]<fs> and a PLC.</td>
+            <td>This file is a text file, cused for the communication between <fs>[SIMETRIC]</fs> and a PLC.</td>
         </tr>
         <tr>
             <td>.CONFIG</td>
@@ -29,7 +29,7 @@ It exists 4 types of files used by **<fs>[SIMETRIC]<fs> software** :
 
 # Open an existing project :id=openproject
 
-After openning **<fs>[SIMETRIC]<fs> software**, Click on **File** > **Open**.  
+After openning **<fs>[SIMETRIC]</fs> software**, Click on **File** > **Open**.  
 A window file explorer will open to choose an existing .XMC3 project :
 
 ![Open](Images/Open.png)
@@ -139,7 +139,7 @@ To attach together two conveyors, it exist on the 3D Tools, a visual helper, to 
   <source src="Medias/Link.mp4" type="video/mp4">
 </video>
 
-[Resources](https://github.com/HaroldPX/Pnt<fs>[SIMETRIC]<fs>/blob/main/docs/xmc3%20Exemple/)
+[Resources](https://github.com/HaroldPX/Pnt<fs>[SIMETRIC]</fs>/blob/main/docs/xmc3%20Exemple/)
 
 
 # Run your first simulation :id=runfirstsim

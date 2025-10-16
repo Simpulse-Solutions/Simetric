@@ -1,6 +1,6 @@
 # Communication  :id=communication
 
-The communication window is use to make the link between the <fs>[SIMETRIC]<fs>'s I/O, and the PLC. 
+The communication window is use to make the link between the <fs>[SIMETRIC]</fs>'s I/O, and the PLC. 
 
 ![Middle](Images/First_scheme.png ':size=500')
 
@@ -50,25 +50,25 @@ You can also make the aliasing automatically, with a .csv file, by excel.
 
 ## Link :id=link
 
-In order to link correctly <fs>[SIMETRIC]<fs> software with a PLC, you need to use a link software.
+In order to link correctly <fs>[SIMETRIC]</fs> software with a PLC, you need to use a link software.
 
 It exist three main software, IESA Link, KEP and RSLink.
 
 ![Middle](Images/IESA_Link.png ':size=500')
 
-To establish a connection between IESA Link Client and <fs>[SIMETRIC]<fs>, you need to ensure that they are configured with the same IP address and path. The IP address corresponds to your computer's standard IP address, while the path refers to the slot number of your CPU. By matching these settings, you can successfully link IESA Link Client with <fs>[SIMETRIC]<fs>.
+To establish a connection between IESA Link Client and <fs>[SIMETRIC]</fs>, you need to ensure that they are configured with the same IP address and path. The IP address corresponds to your computer's standard IP address, while the path refers to the slot number of your CPU. By matching these settings, you can successfully link IESA Link Client with <fs>[SIMETRIC]</fs>.
 
 Once you have entered the IP and Path information, you can select the specific PLC you are using in IESA Link Client. This allows you to perform read and write operations on tags associated with the PLC. To access a particular tag, you need to provide its address, which will enable you to interact with it.
 
 
 ## Play :id=play
 
-After Tagging your I/O, Aliasing correctly and link <fs>[SIMETRIC]<fs> with your PLC, you can now turn on the Run mode, and see your simulation in action. 
+After Tagging your I/O, Aliasing correctly and link <fs>[SIMETRIC]</fs> with your PLC, you can now turn on the Run mode, and see your simulation in action. 
 
 
 ## Window :id=window
 
-The communication window serves as the interface between <fs>[SIMETRIC]<fs> and your automate. It displays the status of each data element in your simulation, including its address, status, alias, and more. It will create a .alias file at the root of the project.
+The communication window serves as the interface between <fs>[SIMETRIC]</fs> and your automate. It displays the status of each data element in your simulation, including its address, status, alias, and more. It will create a .alias file at the root of the project.
 
 ![Middle](Images/WindowController.png ':size=500')
 
@@ -148,9 +148,9 @@ The communication window serves as the interface between <fs>[SIMETRIC]<fs> and 
 
 >PLC Type
 
-<fs>[SIMETRIC]<fs> supports various types of PLCs, and to establish a connection between the PLC and <fs>[SIMETRIC]<fs>, you need specific software that acts as a bridge between them. There are three different software options available: IESA Link Client, KEPServer, and RS_Linx. These software tools facilitate the seamless integration and communication between your PLC and <fs>[SIMETRIC]<fs>.
+<fs>[SIMETRIC]</fs> supports various types of PLCs, and to establish a connection between the PLC and <fs>[SIMETRIC]</fs>, you need specific software that acts as a bridge between them. There are three different software options available: IESA Link Client, KEPServer, and RS_Linx. These software tools facilitate the seamless integration and communication between your PLC and <fs>[SIMETRIC]</fs>.
 
-Most of the PLC types listed in <fs>[SIMETRIC]<fs> are compatible with IESA Link Client for communication. However, the last two PLC types, namely "OPC_RS_Linx" and "OPC_KEP_VS", require specific software for integration. "OPC_RS_Linx" is compatible with RS_Linx, while "OPC_KEP_VS" works with KEPServer for establishing the connection between the PLC and <fs>[SIMETRIC]<fs>.
+Most of the PLC types listed in <fs>[SIMETRIC]</fs> are compatible with IESA Link Client for communication. However, the last two PLC types, namely "OPC_RS_Linx" and "OPC_KEP_VS", require specific software for integration. "OPC_RS_Linx" is compatible with RS_Linx, while "OPC_KEP_VS" works with KEPServer for establishing the connection between the PLC and <fs>[SIMETRIC]</fs>.
 
 <table>
         <tbody><tr>

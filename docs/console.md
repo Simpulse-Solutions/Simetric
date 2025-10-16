@@ -1,6 +1,6 @@
 # Console :id=console
 
-The console in <fs>[SIMETRIC]<fs> functions similarly to a traditional coding environment console. It displays various information about your simulation, such as the current state, any errors that may have occurred, the text you write along with your code, the compilation status of your controllers, and more.
+The console in <fs>[SIMETRIC]</fs> functions similarly to a traditional coding environment console. It displays various information about your simulation, such as the current state, any errors that may have occurred, the text you write along with your code, the compilation status of your controllers, and more.
 
 ![Middle](Images/console.png ':size=2000')
 

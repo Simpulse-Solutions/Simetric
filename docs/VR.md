@@ -1,14 +1,14 @@
 # VR :id=VR
 
-<fs>[SIMETRIC]<fs> is VR-compatible software that allows you to visualize your simulation using a VR headset, providing a realistic experience as if you were physically present. To utilize this functionality, you need to [Setup your VR headset](#setupyourvr) initially.
+<fs>[SIMETRIC]</fs> is VR-compatible software that allows you to visualize your simulation using a VR headset, providing a realistic experience as if you were physically present. To utilize this functionality, you need to [Setup your VR headset](#setupyourvr) initially.
 
-Additionally, <fs>[SIMETRIC]<fs> serves as a training tool, enabling users to practice exercises such as driving simulations or disaster scenarios. This feature helps assess how employees would perform in different situations, allowing for effective training and evaluation. 
+Additionally, <fs>[SIMETRIC]</fs> serves as a training tool, enabling users to practice exercises such as driving simulations or disaster scenarios. This feature helps assess how employees would perform in different situations, allowing for effective training and evaluation. 
 
 To do a [training](#training) practice, you need to [edit a scenario](#editascenario) .
 
 # Setup your VR :id=setupyourvr
 
-The <fs>[SIMETRIC]<fs> software is compatible with various types of VR headsets, with the two most popular options being the [HTC VIVE](#htcvive) and [Oculus](#oculus) headsets. To begin setting up your VR headset and start utilizing the <fs>[SIMETRIC]<fs> software, you need to configure your headset accordingly.
+The <fs>[SIMETRIC]</fs> software is compatible with various types of VR headsets, with the two most popular options being the [HTC VIVE](#htcvive) and [Oculus](#oculus) headsets. To begin setting up your VR headset and start utilizing the <fs>[SIMETRIC]</fs> software, you need to configure your headset accordingly.
 
 Here, you will find a guide to help you set up your VR headset. If you have an [Oculus](#oculus) headset. If you have an [HTC VIVE](#htcvive) headset.
 
@@ -117,13 +117,13 @@ The training window, is a window where you play and edit your scenarios in the 3
 
 ## Play a scenario :id=playascenario
 
-To play a scenario in <fs>[SIMETRIC]<fs>, follow these steps:
+To play a scenario in <fs>[SIMETRIC]</fs>, follow these steps:
 
 Open your project in the software.
 
 Toggle the play mode in the 3D viewer panel.
 
-Click on the Eye button located on the left toolbar to connect your VR headset to <fs>[SIMETRIC]<fs>.
+Click on the Eye button located on the left toolbar to connect your VR headset to <fs>[SIMETRIC]</fs>.
 
 Ensure that [Steam VR](#steamvr) is running and that your headset and controllers are turned on.
 

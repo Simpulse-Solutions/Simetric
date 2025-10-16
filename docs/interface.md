@@ -1,6 +1,6 @@
 # Interface 
 
-   To make the most of the <fs>[SIMETRIC]<fs> Software, we need to begin by familiarizing ourselves with the software interface and, by understanding each of its tools.
+   To make the most of the <fs>[SIMETRIC]</fs> Software, we need to begin by familiarizing ourselves with the software interface and, by understanding each of its tools.
    
    ![Bars](Images/Bars.png ':size=800')
    
@@ -44,7 +44,7 @@
 <tr><td>Recent Files</td><td> Load some recent project, by not open them by browsing the files explorer.</td>
 <tr><td>Recover Files</td><td> List of all backup for your project. In the event that you forget to save your project or experience a software crash, you can retrieve your files With it.</td>
 <tr><td>Preferences</td><td> Customization for various aspects such as the color scheme of the software interface, language preferences, the time interval for autosaves, and additional settings. More details are given here.</td>
-<tr><td>Exit</td><td> Exit <fs>[SIMETRIC]<fs>.</td>
+<tr><td>Exit</td><td> Exit <fs>[SIMETRIC]</fs>.</td>
 </tbody></table>
 
 > Edit
@@ -65,7 +65,7 @@
 
 <table><tbody>
 <tr><td>Windows</td><td> Open a new window of a section. 12 different section exists : 3D view, Hierarchy, Product ressources, Console, Data monitor, Inspector, Buttons, Training, VR Manager, Library Manager, Material Editor, Action Button,</td>
-<tr><td>Layouts</td><td> Enable you to change sizes of each window in <fs>[SIMETRIC]<fs>, and also to reorganize the window as you want. You can have more detail here.</td>
+<tr><td>Layouts</td><td> Enable you to change sizes of each window in <fs>[SIMETRIC]</fs>, and also to reorganize the window as you want. You can have more detail here.</td>
 <tr><td>3D Fullscreen</td><td> Expand the 3D View window to occupy the entire screen in fullscreen mode. To exit fullscreen mode, simply press Escap key.</td>
 </tbody></table>
 
@@ -75,7 +75,7 @@
 
 <table><tbody>
 <tr><td>Communications</td><td> The communication window enable you to monitor your simulation with a PLC.</td>
-<tr><td>IESA Link Client</td><td> ISEA Link Client is a software that facilitate to do the link between <fs>[SIMETRIC]<fs> and your PLC, such as a software like KEP or RSLink.</td>
+<tr><td>IESA Link Client</td><td> ISEA Link Client is a software that facilitate to do the link between <fs>[SIMETRIC]</fs> and your PLC, such as a software like KEP or RSLink.</td>
 <tr><td>Open Alias Project</td><td> The Alias project is a text file shared with IESA Link to communicate between the two software.</td>
 <tr><td>Open Console File</td><td> Open the .txt file that display all the console messages.</td>
 <tr><td>Project Directory</td><td> Open the place where your project is saved.</td>
@@ -91,10 +91,10 @@
 ![Help](Images/Help.png)
 
 <table><tbody>
-<tr><td>Documentation</td><td> Here is the documentation for <fs>[SIMETRIC]<fs>, which you can access at any time. Simply click on Help>Documentation or press the F1 key on your keyboard. It will redirect you to this site.</td>
-<tr><td>About</td><td> Open a window, which contains, useful information about your actual Version of <fs>[SIMETRIC]<fs>.</td>
+<tr><td>Documentation</td><td> Here is the documentation for <fs>[SIMETRIC]</fs>, which you can access at any time. Simply click on Help>Documentation or press the F1 key on your keyboard. It will redirect you to this site.</td>
+<tr><td>About</td><td> Open a window, which contains, useful information about your actual Version of <fs>[SIMETRIC]</fs>.</td>
 <tr><td>Report a Bug</td><td> display a bug reporting form, fill it the form with the necessary details and send it.</td>
-<tr><td>Check For Update</td><td> If your version of <fs>[SIMETRIC]<fs> is not up to date, it will prompt you to download the latest version. If you already have the most recent version, it will notify you that your version is up to date.</td>
+<tr><td>Check For Update</td><td> If your version of <fs>[SIMETRIC]</fs> is not up to date, it will prompt you to download the latest version. If you already have the most recent version, it will notify you that your version is up to date.</td>
 <tr><td>Activation</td><td> They are 4 different sections : a demo one, which will end in 30min; a professional one; an educational one and a ultimate one.</td>
 </tbody></table>
 

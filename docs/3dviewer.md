@@ -12,7 +12,7 @@ The 3D viewer is the primary window where you observe your simulation. It is cru
 
 ## Navigation :id=navigation
 
-To fully utilize the software Architect, we need to first examine the controls for the 3D viewer and other related features.
+To fully utilize the software <fs>[SIMETRIC]<fs>, we need to first examine the controls for the 3D viewer and other related features.
 
 > Moving
 

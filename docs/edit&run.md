@@ -1,6 +1,6 @@
 ## Edit & Run :id=edit&run
 
-In the software Architect, it exist two mode. A Edit Mode for the edition of simulation, to place and modify object. And a Run Mode for simulating in real time the project. You can switch from a mode to the other, by toggling a simple button.
+In the software <fs>[SIMETRIC]<fs>, it exist two mode. A Edit Mode for the edition of simulation, to place and modify object. And a Run Mode for simulating in real time the project. You can switch from a mode to the other, by toggling a simple button.
 
 ![Middle](Images/Run.png ':size=205') ![Middle](Images/Stop.png ':size=100')
 

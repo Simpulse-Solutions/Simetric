@@ -11,11 +11,11 @@
 
 ## Coding :id=coding
 
-It is possible to code in Architect, with controller. When you open a controller, by right clicking and choosing "code". You will have access to the code environment in C#. You need to know the basic of C# in order to code in Architect.
+It is possible to code in <fs>[SIMETRIC]<fs>, with controller. When you open a controller, by right clicking and choosing "code". You will have access to the code environment in C#. You need to know the basic of C# in order to code in <fs>[SIMETRIC]<fs>.
 
 ![Middle](Images/Controller.jpg ':size=500')
 
-In this section, you will learn useful function, and specific code in Architect, not the C# basic.
+In this section, you will learn useful function, and specific code in <fs>[SIMETRIC]<fs>, not the C# basic.
 
 ## Compiling :id=compiling
 

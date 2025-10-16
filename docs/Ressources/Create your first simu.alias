@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<!--
+plcType:
+	RS_Logix = 0,
+	RS_Micro = 1,
+	RS_PLC = 10,
+	RS_PLCCNET = 11,
+	RS_SLC = 12,
+	S7_200 = 20,
+	S7_300 = 21,
+	S7_400 = 22,
+	S7_1200 = 23,
+    MB_TCP = 30,
+    MB_SERIAL = 31,
+    MB_SOE = 32,
+    ADS_TWINCAT2 = 40,
+    ADS_TWINCAT3 = 41,
+	OPC_RS_LINX = 50,
+	OPC_KEP_V5 = 51,
+	
+path:
+	CLX : SlotCPU ex: path="3"
+	PLC / SLC : rack.SlotDH.Channel.Node en decimal. ex: path="1.0.A.23"
+	S7 : Controller.Path ex: path="1.2"
+    MB : Non ex: path="0"
+    RS_LINX : Topic ex: path="MONTOPIC"
+	KEP : Channel.Device ex: path="MONCHANNEL.MONDEVICE"
+    TWINCAT : IP: NetId Path: 0
+	
+transformation:
+	BOOL
+		NO : Normally Open (Exemple NO => val = !val)
+		NC : Normally Close (Exemple NC => val = val)
+	INT
+		SCALE(OFFSET, FACTOR) : Scale (Exemple SCALE(10,0.1) => val = 10 + val*0.1)
+		MODULO(INTEGER) : Scale (Exemple MODULO(1000) => val = val%1000)
+-->
+<root />

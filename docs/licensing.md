@@ -1,6 +1,6 @@
 # Licensing :id=licensing
 
-PnT[ARCHITECT] offers three types of licenses, tailored to different user needs:
+<font color="#70aec9">[</font><font color="#b2aaa9" typeface='Roboto'>SIMETRIC</font><font color="#df5e75">]</font> offers three types of licenses, tailored to different user needs:
 
 1. Player License
 
@@ -16,7 +16,7 @@ Includes all the features of the Enterprise License, along with training and ded
 
 >How to Request a License
 
-After installing PnT[ARCHITECT], follow these steps to request a license:
+After installing <font color="#70aec9">[</font><font color="#b2aaa9" typeface='Roboto'>SIMETRIC</font><font color="#df5e75">]</font>, follow these steps to request a license:
 
 Open the application.
 

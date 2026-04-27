@@ -27,6 +27,8 @@
 - [Configuration files](configurationfiles.md?id=configurationfiles)
 - [Edit & Run](edit&run.md?id=edit&run)
 - [VR](vr.md?id=vr)
+- [Licensing](licensing.md?id=licensing)
+- [Q&A](Q&A.md?id=QNA)
 
 ## Top bar :id=topbar
 
@@ -143,11 +145,11 @@ The vertical bar is useful to manipulate product and adjust your point of view, 
 <tr><td><img src="Images/Drag.png"></td><td> This button will enable you to drag a product during the simulation.</td>
 <tr><td><img src="Images/Freeze.png"></td><td> This button enable you to stop in time an object during the simulation. The product will be fixed and can't move at all.</td>
 <tr><td><img src="Images/Generator.png"></td><td> This button will generated a product generator where you point, automatically. You need to configure it, in order to use a generator.</td>
-<tr><td><img src="Images/Measure.png"></td><td> This button permit you to move a cell during a simulation.</td>
-<tr><td><img src="Images/translation.png"></td><td> This button enables you to measure a distance between 2 point in the simulation.</td>
+<tr><td><img src="Images/Measure.png"></td><td> This button enables you to measure a distance between 2 point in the simulation.</td>
+<tr><td><img src="Images/translation.png"></td><td> This button permit you to move a cell during a simulation.</td>
 <tr><td><img src="Images/Camera.png"></td><td> This button permit you to settle a point of view, where you camera was when you click on the button. You will be able to see this point of view at any time.</td>
 <tr><td><img src="Images/Spy.png"></td><td> The spy button enables you to monitor the data of a product in a selected area, during a simulation.</td>
-<tr><td><img src="Images/translation.png"></td><td> This button make the link between the simulation an you VR headset.</td>
+<tr><td><img src="Images/View_bar.png"></td><td> This button make the link between the simulation an you VR headset.</td>
 <tr><td><img src="Images/fps.png"></td><td> This button make your point of view, in first person.</td>
 </tbody></table>
 

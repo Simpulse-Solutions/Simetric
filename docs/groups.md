@@ -298,6 +298,9 @@ The Mechanical Simple groups is used to rotate and translate every object linked
 
 >Example
 
+<video width="800" controls>
+  <source src="Medias/Simple.mp4" type="video/mp4">
+</video>
 
 # Mechanical Drive :id=drive
 
@@ -449,7 +452,9 @@ The drive mechanical group is used to move or rotate objects in a specific direc
 
 >Example
 
-
+<video width="800" controls>
+  <source src="Medias/Drive.mp4" type="video/mp4">
+</video>
 
 
 # Mechanical Hydraulic :id=hydraulic

@@ -107,3 +107,48 @@ When you had a button in the project, the button's data can be see in the data m
 
 All the configuration of a button box can be done in the configuration file.
 
+> You can also display your button box with a panel
+
+
+Add Panel
+
+![Add_Panel](Images/Add_Panel.png ':size=800')
+
+Place the photo in the same folder as the simulation and name the file, add your picture name in Parameter_text in the Inspector.
+
+![Add_Param](Images/Add_Param.png ':size=600')
+
+Add buttons
+
+
+Click on the plus sign
+
+![ClicPlus](Images/ClicPlus.png ':size=300')
+
+You can change the names and types of the buttons.
+
+![Buttons_Type](Images/Buttons_Type.png ':size=600')
+
+clic right detail 
+
+![Detail](Images/Detail.png ':size=400')
+
+You can change de type displayed and the position on your picture.
+
+![Position_detail](Images/Position_detail.png ':size=800')
+
+
+place your buttons on your picture.
+
+![Place_buttons](Images/Place_buttons.png ':size=800')
+
+
+Add Tag and Alias in the Data Monitor.
+
+![Tag_Alias](Images/Tag_Alias.png ':size=800')
+
+And Run and test
+
+
+
+

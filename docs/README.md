@@ -8,7 +8,7 @@ This repository provides <fs><font color="#70aec9">[</font><font>SIMETRIC</font>
 
 Project examples.
 
-Tutorials.
+[YouTube Tutorial](https://www.youtube.com/@SimPulseSolutions)
 
 > [Community and Support]
 

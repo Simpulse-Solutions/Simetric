@@ -1,5 +1,34 @@
 # Getting Started :id=gettingstarted
 
+# License Activation :id=LicenseActivation
+
+After installing the software it opens this window  
+
+![Open](Images/fenetre_ouverture.png ':size=1024')
+
+In the file menu, click on open and go to the .xmc3 file. For the example in the photo, it's Projet_SITL_MASTER.xmc3
+
+![Open](Images/popup_ouverture.png)
+
+Then the following window appeared click on load 
+
+![Open](Images/popup_lunch.png)
+
+And the project is loaded and open
+
+![Open](Images/Project_open.png ':size=1024')
+
+To activate the license, click on help and then on activation.
+
+![Open](Images/activation_window.png)
+
+Then all you have to do is send the e-mail it opened to you to the following e-mail address: simulation@iesa-group.com
+
+![Open](Images/mail_activation.png ':size=1024')
+
+
+
+
 # Files Description :id=fliesdescription
 
 It exists 4 types of files used by **<fs>[SIMETRIC]</fs> software** :
@@ -139,7 +168,7 @@ To attach together two conveyors, it exist on the 3D Tools, a visual helper, to 
   <source src="Medias/Link.mp4" type="video/mp4">
 </video>
 
-[Resources](https://github.com/HaroldPX/Pnt<fs>[SIMETRIC]</fs>/blob/main/docs/xmc3%20Exemple/)
+[Resources](https://github.com/Simpulse-Solutions/Simetric/blob/main/docs/xmc3%20Exemple/)
 
 
 # Run your first simulation :id=runfirstsim

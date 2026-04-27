@@ -4623,7 +4623,26 @@ No specific attributes.
 
 >Specifies
 
+The character can be controlled by message from a Controller: [Messages in controllers](controllermanager.md?id=messages)
+- <b>Messages to characters:</b> 
+<table>
+        <tbody><tr>
+            <th>Message</th>
+            <th>Description</th>
+            <th>Example</th>
+            <th>Information</th>
+        </tr>
+		<tr><td>OnMoveTo(string destination)</td><td>Try to find a path to destination</td><td>SendMessage("OnMoveTo", "5,0,2");</td><td>Try to find a path to destination 5,0,2</td></tr> 
+		<tr><td>OnLookAt(string orientation)</td><td>Change direction to look at position</td><td>SendMessage("OnLookAt", "0,0,2.5");</td><td>Change direction to look at position 0,0,2.5</td></tr> 
+		<tr><td>OnTake(string position)</td><td>Try to take a product at position</td><td>SendMessage("OnTake", "5,0,2");</td><td>Try to take a product at position 5,0,2</td></tr> 
+		<tr><td>OnDrop(string position)</td><td>Try to drop a product at position</td><td>SendMessage("OnDrop", "0,0,2.5");</td><td>Try to drop a product at position 0,0,2.5</td></tr> 
+    </tbody></table>
+	
+DI_Position_OK is activate when position is reached.
+
 >Example
+
+myOperator.SendMessage("OnMoveTo", "5,0,2");
 
 ## Teleport :id=teleport
 

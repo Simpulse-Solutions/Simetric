@@ -1,30 +1,99 @@
 # Getting Started :id=gettingstarted
 
-# License Activation :id=LicenseActivation
+# License Activation :id=license_activation
+
+- [Player Activation](getting-started.md?id=player_activation)
+- [Enterprise Activation](getting-started.md?id=enterprise_activation)
+- [License Manager](getting-started.md?id=licensemanager)
+
+## Player Activation :id=player_activation
 
 After installing the software it opens this window  
 
-![Open](Images/fenetre_ouverture.png ':size=1024')
+![Open](Images/Licence_Activation1.png ':size=1024')
 
-In the file menu, click on open and go to the .xmc3 file. For the example in the photo, it's Projet_SITL_MASTER.xmc3
+Open the Licence Tool.
 
-![Open](Images/popup_ouverture.png)
+![Open](Images/PlayerActivation2.png ':size=1024')
 
-Then the following window appeared click on load 
+Enter a valid Email address and click en Request player.
 
-![Open](Images/popup_lunch.png)
+![Open](Images/PlayerActivation3.png ':size=1024')
 
-And the project is loaded and open
+And close and restart SIMETRIC.
 
-![Open](Images/Project_open.png ':size=1024')
+## Enterprise Activation :id=enterprise_activation
 
-To activate the license, click on help and then on activation.
+- [ Activation](getting-started.md?id=activation)
+- [Return Activation](getting-started.md?id=return_activation)
 
-![Open](Images/activation_window.png)
+## Activation :id=activation
 
-Then all you have to do is send the e-mail it opened to you to the following e-mail address: simulation@iesa-group.com
+You need your informations.
 
-![Open](Images/mail_activation.png ':size=1024')
+- [Site URL](https://licensemanager-ejf3fkh0dvdsgma4.francecentral-01.azurewebsites.net/)
+- Your Username : Your email address.
+- Your Password : Your password, modifiable after login.
+- Your Contract Number : Your Contract Number.
+- Your PIN Code : Your PIN Code.
+
+After you have this data, open the site and connect with your Contract ID.
+
+![Open](Images/EnterpriseActivation1.png ':size=1024')
+
+After that go on SIMETRIC, and open Licence Tool.
+
+![Open](Images/Licence_Activation1.png ':size=1024')
+
+Enter your Contract ID in Client ID, and do a Request activation.
+
+![Open](Images/EnterpriseActivation2.png ':size=1024')
+
+Ad your PIN Code.
+
+![Open](Images/EnterpriseActivation3.png ':size=1024')
+
+Save .raf File.
+
+![Open](Images/EnterpriseActivation4.png ':size=300')
+
+Upload .raf file and download .rac file.
+
+![Open](Images/EnterpriseActivation6.png ':size=300')
+
+Load your .rac file on load activation file.
+
+![Open](Images/EnterpriseActivation5.png ':size=1024')
+
+## Return Activation :id=return_activation
+
+For Returning Activation, click on Return activation, and save .rdf file.
+
+![Open](Images/EnterpriseActivation7.png ':size=300')
+
+Load and Send .rdf file.
+
+![Open](Images/EnterpriseActivation8.png ':size=300')
+
+Activation Return.
+
+![Open](Images/EnterpriseActivation9.png ':size=300')
+
+## License Manager :id=licensemanager
+
+Use your contract numbers to connecte
+
+![Open](Images/EnterpriseActivation1.png ':size=1024')
+
+You can see your :
+
+-Validity
+-Type of licence
+-how many tokens you have left
+
+and do your [Activation](#activation)
+
+![Open](Images/Licencemanager.png ':size=1024')
 
 
 

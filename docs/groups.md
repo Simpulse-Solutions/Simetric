@@ -47,7 +47,11 @@ It exists two types of groups : standard and mechanical. Even if they are differ
         <td><img src="Images/0142.png"></td>
         <td>Mechanical groups that can scale up or down.</td>
     </tr>
-    
+    <tr>
+        <td><a href="/#/groups.md?id=robotic">Robotic</a></td>
+        <td><img src="Images/0142.png"></td>
+        <td>Robotic group for creating your robots</td>
+    </tr>
 </tbody></table>
 
 >Mechanical groups
@@ -820,3 +824,59 @@ The scaler mechanical group is used to scale up or down every object linked to i
 <video width="800" controls>
   <source src="Medias/scale.mp4" type="video/mp4">
 </video>
+
+
+# Robotic :id=robotic
+
+>What is it ?
+
+The section are just visual separator in the hierarchy, this is useful to make distinct two groups distinct in a project. You can drag the object and groups that you want to sort in the section you want. A section do not interfere with the simulation.
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="/#/groups.md?id=robot_root">Robot_Root</a></td>
+        <td><img src="Images/0142.png"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="/#/groups.md?id=robot_arm">Robot_Arm</a></td>
+        <td><img src="Images/0142.png"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="/#/groups.md?id=robot_tool">Robot_Tool</a></td>
+        <td><img src="Images/0142.png"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="/#/groups.md?id=robot_toolselector">Robot_ToolSelector</a></td>
+        <td><img src="Images/0142.png"></td>
+        <td></td>
+    </tr>
+</tbody></table>
+
+
+## Robot_Root :id=robot_root 
+
+## Robot_Arm :id=robot_arm
+
+## Robot_Tool :id=robot_tool 
+
+## Robot_ToolSelector :id=robot_toolselector
+
+
+
+
+
+
+
+
+
+
+
+

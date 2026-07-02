@@ -6,7 +6,10 @@
 [GitHub](https://github.com/Simpulse-Solutions/Simetric)
 [YouTube Tutorial](https://www.youtube.com/@SimPulseSolutions)
 [Downloads](https://simpulse-solutions.com/downloads/)
+[License Manager](https://licensemanager-ejf3fkh0dvdsgma4.francecentral-01.azurewebsites.net)
 [Documentation](getting-started.md)
+
+
 
 
 ![color](#15253A)

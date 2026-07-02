@@ -28,7 +28,10 @@
 - [Edit & Run](edit&run.md?id=edit&run)
 - [VR](vr.md?id=vr)
 - [Licensing](licensing.md?id=licensing)
+- [Guide](Guide.md?id=Guide)
 - [Q&A](Q&A.md?id=QNA)
+- [Revision](patchnote.md?id=patchnote)
+- [How to report a bug](bug.md?id=bug)
 
 ## Top bar :id=topbar
 
@@ -152,6 +155,8 @@ The vertical bar is useful to manipulate product and adjust your point of view, 
 <tr><td><img src="Images/View_bar.png"></td><td> This button make the link between the simulation an you VR headset.</td>
 <tr><td><img src="Images/fps.png"></td><td> This button make your point of view, in first person.</td>
 </tbody></table>
+
+[Guide](guide.md?id=guide)
 
 ## Bottom bar :id=bottombar
 

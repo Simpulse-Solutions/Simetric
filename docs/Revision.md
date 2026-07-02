@@ -169,7 +169,6 @@
 - **Lagrangian simulation** stabilized (rev 4888)
 - Lagrangian simulation (rev 4887)
 - Spline correction (rev 4861)
-- Removed `[]` — installation issue on **Michelin PC** (rev 4857)
 - Correction **OPC ServerType** (rev 4855)
 - Correction True Status panel button (rev 4841)
 - Correction **Archipus EL** addressing (rev 4810)

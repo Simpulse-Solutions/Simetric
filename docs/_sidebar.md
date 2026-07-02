@@ -48,5 +48,5 @@
 * [Licensing](licensing.md?id=licensing)
 * [Guide](Guide.md?id=Guide)
 * [Q&A](Q&A.md?id=Q&A)
-* [Revision](patchnote.md?id=patchnote)
+* [Revision](Revision.md?id=patchnote)
 * [How to report a bug](bug.md?id=bug)

@@ -1,16 +1,15 @@
-# Revsion :id=revision
+# Revision :id=revision
 
 
-- [**Revision 4974** · June 24, 2026](#rev4974)
-- [**Revision 4909** · May 2026](#rev4909)
+- [**Revision 4988** · July 3, 2026](#rev1)
+- [**Revision 4909** · May 2026](#rev2)
 
 
 
-# **Revision 4974** · June 24, 2026 :id=rev4974
+# **Revision 4988** · July 3, 2026 :id=rev1
 
-## ✨ New Features 
-
-
+## ✨ New Features
+ 
 - Added **SO_Sound** component (rev 4971)
 - Added **SceneManager.GetProductById** => SO_Product (rev 4964)
 - Added **NavMesh** settings (rev 4957)
@@ -19,21 +18,21 @@
 - **VR Menu** display (rev 4952)
 - Development of **Robot** module resumed (rev 4928)
 - **Stackable Products** system (rev 4927)
-- **Stackable Products** (rev 4926)
 - Added **Roller** object — inactive on products (rev 4891)
-
-
 ---
-
-## 🔧 Improvements 
-
+ 
+## 🔧 Improvements
+ 
+- Unit display on Inspector (rev 4985)
+- **CAO Models** modification (rev 4979)
+- **CAO Models** loading improvement (rev 4977)
+- **Belt** superposition (rev 4976)
+- **Plastic tray** modification (rev 4975)
 - Corrective fix **Kinematic / Arm** (rev 4970)
 - **Rename Tags** (rev 4966)
 - **Hookchain drive unit** + cell reset correction (rev 4958)
 - **Selection Hierarchy** optimization (rev 4956)
-- Optimizations to test (rev 4955)
 - **Cutter** correction (rev 4950)
-- **AvailableMessage** commit (rev 4948)
 - **Belt Collider** corrections (rev 4944)
 - **Belt Collider** corrections (rev 4943)
 - **Belt Collider** corrections (rev 4942)
@@ -46,21 +45,23 @@
 - **Hook** rotation damping (rev 4893)
 - **Nacelle** rotation damping (rev 4892)
 - Spline update on start (rev 4890)
-
+- **Lagrangian simulation** stabilized (rev 4888)
 ---
-
-## 🐛 Bug Fixes 
-
+ 
+## 🐛 Bug Fixes
+ 
+- **Curve color** correction (rev 4987)
+- **Carpet color** + TAD modification (rev 4984)
+- Correction **Reset Noria** + HC_Cell (rev 4983)
+- Suppression Broadcast OnTriggerExit on Products at Reset (rev 4981)
 - Correction default value **NC cell** (rev 4972)
 - **So_Robot_Root** : missing UpdateAttribute (rev 4968)
-- Commit before **Product/ProductType** clarification in ProductManager (rev 4963)
 - Fixed crash on **Array of Short** forced write (rev 4961)
 - Bug fix on **Cutter** (rev 4939)
 - Fix **DI/DO Data** on interpreter (rev 4932)
-- DI/DO data issue — unable to change size and type (rev 4930)
+- DI/DO data — unable to change size and type (rev 4930)
 - **Selection Hierarchy** correction (rev 4925)
 - **Nacelle** correction (rev 4924)
-- Removed "name" from CreateData (rev 4923)
 - Correction **RFID hookchain** (rev 4921)
 - Bug fix on **Cut product** (rev 4920)
 - Fix **ARRAY_OF_BYTE** write in controllers (rev 4917)
@@ -68,7 +69,7 @@
 - **Material Editor Enterprise** (rev 4915)
 - **Material Editor** (rev 4913)
 - Correction **Belt Conveyor** (rev 4911)
-- **ENCODER Extruder** bug fix (rev 4910)
+- **Encoder Extruder** bug fix (rev 4910)
 - Bug **Absorber** + direction Z collider (rev 4907)
 - Updated **2026 thumbnails** (rev 4905)
 - Correction **Archipus** ignore case model name (rev 4904)
@@ -80,14 +81,15 @@
 - Correction alias refresh Verrine and MecaGroup (rev 4879)
 - Correction **Belt Collider** zero collider (rev 4878)
 - Correction **Belt reset** (rev 4877)
+- Correction **Belt Detector** (rev 4874)
+- **Lagrange simulation** (rev 4887)
+---
+ 
+*Revisions covered: 4888 → 4988 · May – July 2026*
 
 ---
 
-*Revisions covered: 4874 → 4974 · April – June 2026*
-
----
-
-# **Revision 4909** · May 2026 :id=rev4909
+# **Revision 4909** · May 2026 :id=rev2
  
 ---
  

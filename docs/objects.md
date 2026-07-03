@@ -1327,6 +1327,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 
 >What is it ?
 
+Sensor that can detect a product.
+
 ![Middle](Images/Area_ContactSensor.png ':size=200')
 
 >Inspector
@@ -1386,6 +1388,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 ## Contact Sensor :id=contactsensor
 
 >What is it ?
+
+Sensor that can detect another cell.
 
 ![Middle](Images/Area_ContactSensor.png ':size=200')
 
@@ -1601,9 +1605,11 @@ The Turn table is a conveyor that will turn the product to move it into  another
 
 
 
-## photocell :id=photocell
+## Photocell :id=photocell
 
 >What is it ?
+
+Cell that can detect a product.
 
 ![Middle](Images/Photocell.png ':size=200')
 
@@ -1873,6 +1879,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 
 >What is it ?
 
+Reader that can read number on product.
+
 ![Middle](Images/BCR.png ':size=200')
 
 >Inspector
@@ -2104,6 +2112,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 
 >What is it ?
 
+Indicates the distance at which a product is located
+
 ![Middle](Images/Telemeter.png ':size=200')
 
 >Inspector
@@ -2164,6 +2174,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 ## Weighing Scale :id=weighingscale
 
 >What is it ?
+
+When a product passes over it, it reads the product's weight.
 
 ![Middle](Images/weighingscale.png ':size=200')
 
@@ -3432,6 +3444,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 
 >What is it ?
 
+A border that can contain the products.
+
 ![Middle](Images/Border.png ':size=200')
 
 >Inspector
@@ -3554,6 +3568,8 @@ No Specific attributes.
 
 >What is it ?
 
+You can add button on it .
+
 ![Middle](Images/ButtonBox.png ':size=200')
 
 >Inspector
@@ -3612,6 +3628,8 @@ No Specific attributes.
 ## Cabinet :id=cabinet
 
 >What is it ?
+
+You can add button on it.
 
 ![Middle](Images/Cabinet.png ':size=200')
 
@@ -3714,6 +3732,8 @@ No Specific attributes.
 ## Fence :id=fence
 
 >What is it ?
+
+Fence you can us it for decoration.
 
 ![Middle](Images/Fence.png ':size=200')
 
@@ -3820,6 +3840,8 @@ No Specific attributes.
 
 >What is it ?
 
+You can add image on it.
+
 ![Middle](Images/Label.png ':size=200')
 
 >Inspector
@@ -3874,6 +3896,8 @@ No Specific attributes.
 ## Light :id=light
 
 >What is it ?
+
+You can add light on it.
 
 ![Middle](Images/Light.png ':size=200')
 
@@ -3993,6 +4017,8 @@ No Specific attributes.
 
 >What is it ?
 
+You can add image on it. You can also add buttons to it—see [Button Manager](buttonmanager.md?id=buttonmanager)
+
 ![Middle](Images/Panel.png ':size=200')
 
 >Inspector
@@ -4047,6 +4073,8 @@ No Specific attributes.
 ## Primitive :id=primitives
 
 >What is it ?
+
+You can give it shapes, but go beyond just the Shape.
 
 ![Middle](Images/Primitive.png ':size=200')
 
@@ -4134,6 +4162,8 @@ No Specific attributes.
 ## Shape :id=shape
 
 >What is it ?
+
+You can shape it.
 
 ![Middle](Images/Shape.png ':size=200')
 
@@ -4766,6 +4796,8 @@ No specific attributes.
 
 >What is it ?
 
+You can us it to transport product to another position.
+
 ![Middle](Images/AGV.png ':size=200')
 
 >Inspector
@@ -4898,6 +4930,8 @@ No specific attributes.
 ## Character :id=character
 
 >What is it ?
+
+A caracter, he can take product.
 
 ![Middle](Images/Character.png ':size=200')
 
@@ -5066,6 +5100,9 @@ Then by left clicking on where you want to add your generator, a parameter windo
 
 >What is it ?
 
+Can grab object.
+
+
 ![Middle](Images/GrabberObject.png ':size=200')
 
 >Inspector
@@ -5135,6 +5172,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 ## Grabber Product :id=grabberproduct
 
 >What is it ?
+
+Can grab product.
 
 ![Middle](Images/GrabberProduct.png ':size=200')
 
@@ -5391,6 +5430,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 
 >What is it ?
 
+Can teleport product.
+
 ![Middle](Images/Teleport.png ':size=200')
 
 >Inspector
@@ -5531,6 +5572,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 
 >What is it ?
 
+
+
 ![Middle](Images/Hookchain.png ':size=200')
 
 >Inspector
@@ -5606,6 +5649,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 ## Loader :id=Loader
 
 >What is it ?
+
+Can raise product to a hook.
 
 ![Middle](Images/Loader.png ':size=200')
 
@@ -5707,6 +5752,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 
 >What is it ?
 
+
+
 ![Middle](Images/RFIDH.png ':size=200')
 
 >Inspector
@@ -5780,6 +5827,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 
 >What is it ?
 
+Sensor for dectecting hook.
+
 ![Middle](Images/SensorH.png ':size=200')
 
 >Inspector
@@ -5846,6 +5895,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 ## Unloader :id=unloader
 
 >What is it ?
+
+For unloading a product.
 
 ![Middle](Images/Unloader.png ':size=200')
 
@@ -5920,6 +5971,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 ## Rail Conveyor :id=railconveyor
 
 >What is it ?
+
+For makaking hookchain.
 
 ![Middle](Images/RailConveyor.png ':size=200')
 
@@ -6117,6 +6170,8 @@ Then by left clicking on where you want to add your generator, a parameter windo
 ## Rail Stop :id=railstop
 
 >What is it ?
+
+For stoping a hook.
 
 ![Middle](Images/RailStop.png ':size=200')
 

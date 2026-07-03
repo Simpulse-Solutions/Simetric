@@ -36,7 +36,7 @@ If your PC is not connected to the Internet during the license request process, 
 
 Transfer the *.raf file to a computer with Internet access.
 
-Visit the license server at https://licensemanager-ejf3fkh0dvdsgma4.francecentral-01.azurewebsites.net/.
+Visit the license server at [Site URL](https://licensemanager-ejf3fkh0dvdsgma4.francecentral-01.azurewebsites.net/)
 
 Upload the *.raf file and follow the instructions to obtain an activation file.
 

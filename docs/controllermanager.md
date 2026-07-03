@@ -406,7 +406,8 @@ List of messages available in controllers:
 		<tr><td>OnAddProductWeight(string weight)</td><td>Add or substract weight to product</td><td>SendMessage("OnAddProductWeight", "2500");</td><td>Add weight to the product (can be negative)</td></tr> 
 		<tr><td>SetKinematic(bool isKinematic)</td><td>Set product as kinematic (not affected by physics)</td><td>SendMessage("SetKinematic", "true");</td><td>true if kinematic is enable (physics is disabled)</td></tr> 
 		<tr><td>SetProductInfo(string attributs)</td><td>Add or modify a attribute of the product. It can be read by Readers</td><td>SendMessage("SetProductInfo", "Dest=toto");</td><td>Set a parameter of the product</td></tr> 
-    </tbody></table>
+    	<tr><td>ContentManager(... attributs)</td><td>Create product.</td><td>SendMessage("SceneManager;CreateProduct;type;parent;position;rotation;kinematic"); </td><td>Create product</td></tr> 
+	</tbody></table>
 
 
 - <b>Messages to objects:</b> 
